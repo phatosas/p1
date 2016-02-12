@@ -1,6 +1,8 @@
+<!DOCTYPE html>
 <html>
   <head>
-	<title>Osagie Imafidon</title>
+	<title>Osagie Imafidon Project one - Portfolio</title>
+	<meta charset="utf-8">
 	<style type="text/css">
 		body{
 		     background-color: #c0c0c0;
@@ -29,7 +31,7 @@
 		<b>cscie15 project page</b>
 	</p>
 	<p>
-	<img src="images/osagie.jpg">
+	<img src='images/osagie.jpg' alt='Osagie Imafidon'>
 	</p>
 	<h2>Project 2 Title</h2>
 	<p>
