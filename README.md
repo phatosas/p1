@@ -4,15 +4,10 @@
 <http://p1.dwa15.com>
 
 ## Description
-A single page website using basic HTML and CSS with the following information:
-Name
-Photo
-Place holder for future projects
+A single page website using basic HTML and CSS
 
 ## Demo
 <http://screencast.com/t/oUoSnN29>
 
 ## Details
-No login required.
-
-The file `word-scrape.php` was used to generate the word list.
+The webpage would be a place holder for future projects
