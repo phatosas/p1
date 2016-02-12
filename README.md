@@ -1,7 +1,7 @@
 # Project One
 
 ## Live URL
-<http://p1.dwa15.com>
+<http://p1.osaslog.com>
 
 ## Description
 A single page website using basic HTML and CSS
