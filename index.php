@@ -35,8 +35,8 @@
 	</p>
 	<h2>Project 2 Title</h2>
 	<p>
-	View:[link]<br>
-	Github:[link]<br>
+	View:<a href="../p2">[link]</a><br>
+	Github:<a href="https://github.com/phatosas/p2">[link]</a><br>
 	</p>
 	<h2>Project 3 Title</h2>
 	<p>
